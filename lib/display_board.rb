@@ -7,3 +7,5 @@ def display_board(board)
   puts "-----------"
   puts "   |   |   "
 end
+
+board[5]= x.push
