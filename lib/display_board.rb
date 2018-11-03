@@ -9,4 +9,4 @@ def display_board(row)
   puts row[4]= "   |   |   "
 end
 
-display_board(row[2] << "X")
+display_board(row[2]="X")
