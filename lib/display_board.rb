@@ -1,6 +1,6 @@
-board = [" "," "," "," "," "," "," "," "," "]
+row = [" "," "," "," "," "," "," "," "," "]
 
-def display_board(board)
+def display_board(row)
   row[0]= "   |   |   "
   row[1]= "-----------"
   row[2]= "   |   |   "
