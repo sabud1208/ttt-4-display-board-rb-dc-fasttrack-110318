@@ -10,4 +10,4 @@ def display_board(board)
 end
 
 
-di
+display_board(board[5]= "X")
