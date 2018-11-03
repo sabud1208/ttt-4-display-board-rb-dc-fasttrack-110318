@@ -1,4 +1,5 @@
 board = [" "," "," "," "," "," "," "," "," "]
+row= board.split
 
 def display_board(board)
   puts row[0]= "   |   |   "
