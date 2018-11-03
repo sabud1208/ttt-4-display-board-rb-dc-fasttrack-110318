@@ -8,4 +8,4 @@ def display_board(board)
   puts board[4]= "   |   |   "
 end
 
-display_board(board[2])
+display_board(board[5]<< "x")
