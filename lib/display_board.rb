@@ -1,7 +1,7 @@
 board = [" "," "," "," "," "," "," "," "," "]
 row= board.push
 
-def display_board(board)
+def display_board(row)
   puts row[0]= "   |   |   "
   puts row[1]= "-----------"
   puts row[2]= "   |   |   "
