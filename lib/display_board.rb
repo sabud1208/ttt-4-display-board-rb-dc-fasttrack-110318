@@ -1,5 +1,5 @@
 board = [" "," "," "," "," "," "," "," "," "]
-row= board.split("\n")
+row= board.push
 
 def display_board(board)
   puts row[0]= "   |   |   "
