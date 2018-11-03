@@ -10,3 +10,5 @@ def display_board(row)
 end
 
 display_board(board[5] << "x")
+
+row[2]= "X"
