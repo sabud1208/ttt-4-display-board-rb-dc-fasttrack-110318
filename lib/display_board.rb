@@ -11,4 +11,4 @@ end
 
 display_board(board[5] << "x")
 
-row[2]= "X"
+puts row[2]= "X"
