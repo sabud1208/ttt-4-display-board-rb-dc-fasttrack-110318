@@ -1,11 +1,11 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(board)
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
+  row[0]= "   |   |   "
+  row[1]= "-----------"
+  row[2]="   |   |   "
+  row[3]="-----------"
+  row[4]="   |   |   "
 end
 
-display_board(board[5]= "X") 
+display_board(board[5]= "X")
