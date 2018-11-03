@@ -8,5 +8,5 @@ def display_board(row)
   puts row[3]= "-----------"
   puts row[4]= "   |   |   "
 end
-
+ board[5] << "X"
 display_board(board[5] << "x")
