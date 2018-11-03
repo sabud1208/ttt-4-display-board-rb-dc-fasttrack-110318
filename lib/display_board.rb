@@ -1,11 +1,11 @@
 row = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(row)
-  row[0]= "   |   |   "
-  row[1]= "-----------"
-  row[2]= "   |   |   "
-  row[3]= "-----------"
-  row[4]= "   |   |   "
+  puts row[0]= "   |   |   "
+  puts row[1]= "-----------"
+  puts row[2]= "   |   |   "
+  puts row[3]= "-----------"
+  puts row[4]= "   |   |   "
 end
 
 puts display_board(row[2] << "x")
